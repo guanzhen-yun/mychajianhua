@@ -1,0 +1,4 @@
+include ':pluginlib'
+include ':neplug'
+include ':app'
+rootProject.name = "Mychajianhua"
